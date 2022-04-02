@@ -6,3 +6,6 @@ Trilha de desafios: Desafios - GFT QA #1
 Sugestão: evite o copia e cola, a ideia dos desafios é que você os enfrente, então se na dificuldade chegou até aqui, aproveite para ver como o desafio foi solucionado e como pode ser melhorado, a análise é o mínimo a se fazer.
 
 Seguem abaixo os links para os desafios:
+
+
+https://github.com/Jguilhermelaurent/Desafio-GFTQA/tree/main/src/dio/com/br/desafio
